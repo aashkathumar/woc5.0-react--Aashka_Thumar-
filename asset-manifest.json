@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/woc5.0-react-menuapp--Aashka_Thumar/static/css/main.4170cb76.css",
+    "main.js": "/woc5.0-react-menuapp--Aashka_Thumar/static/js/main.03228680.js",
+    "static/js/787.01a9bcdb.chunk.js": "/woc5.0-react-menuapp--Aashka_Thumar/static/js/787.01a9bcdb.chunk.js",
+    "index.html": "/woc5.0-react-menuapp--Aashka_Thumar/index.html",
+    "main.4170cb76.css.map": "/woc5.0-react-menuapp--Aashka_Thumar/static/css/main.4170cb76.css.map",
+    "main.03228680.js.map": "/woc5.0-react-menuapp--Aashka_Thumar/static/js/main.03228680.js.map",
+    "787.01a9bcdb.chunk.js.map": "/woc5.0-react-menuapp--Aashka_Thumar/static/js/787.01a9bcdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4170cb76.css",
+    "static/js/main.03228680.js"
+  ]
+}
